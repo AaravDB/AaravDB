@@ -12,10 +12,10 @@
   
 </div>
 
-🎓 BTech AI & Data Science | IIT Jodhpur '27 
-🔬 Passionate about turning complex problems into elegant solutions 
-🏆 Award Winner at  IIT Ropar Tech Fest 
-🌱 Currently diving deep into ML algorithms and MLOps procedures 
+🎓** BTech AI & Data Science** | **IIT Jodhpur '27 **
+🔬 **Passionate**about turning complex problems into elegant solutions 
+🏆 **Award Winner** at  **IIT Ropar Tech Fest** 
+🌱 Currently diving deep into **fullstack development**,**ML algorithms** and **MLOps** procedures 
 
 ---
 
