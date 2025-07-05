@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,4&height=300&section=header&text=Agam%20Harpreet%20Singh&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Data%20Science%20%7C%20Full-Stack%20Developer&descAlignY=51&descAlign=50)
+  ![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,6,2&text=Aarav%20Dawer%20Bhojwani-nl-&section=header&fontSize=50&reversal=false&animation=fadeIn&desc=AI%20%7C%20Data%20Science%20%7C%20Full-Stack%20Developer&descSize=21&descAlignY=63)
 
 </div>
 
