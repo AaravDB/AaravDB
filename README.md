@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50" alt="👋 wave"/>
+</div>
+
+
 🎓 BTech AI & Data Science | IIT Jodhpur '27
 
 🔬 Passionate about turning complex problems into elegant solutions
