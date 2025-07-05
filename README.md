@@ -68,18 +68,6 @@
 <tr>
 <td width="50%">
 
-### 🌙 [Chandrayaan-2 Analysis](https://drive.google.com/file/d/1hggjVvJFMUwDth0YVdie0aq7KhXaJgKZ/view)
-**ISRO Lunar Data Processing Platform**
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
-- 🛰️ **XRF spectral data** processing
-- 🗺️ **3D lunar surface** mapping
-- 🔬 **Ca & Ti element** detection
-- 📈 **Kriging method** for data interpolation
 
 </td>
 <td width="50%">
