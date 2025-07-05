@@ -12,12 +12,10 @@
   
 </div>
 
-🎓 **BTech AI & Data Science** | **IIT Jodhpur '27**  
-🔬 **Passionate** about turning complex problems into elegant solutions  
-🛰️ **Space Tech Enthusiast** working with **Chandrayaan-2** data  
-🏆 **Award Winner** at **Inter IIT Tech Meet** & **IIT Ropar Tech Fest**  
-🌱 **Currently diving deep** into ML algorithms and modern web technologies  
-🏎️ **F1 Racing Fan** & **Gaming Enthusiast** in free time  
+🎓 BTech AI & Data Science | IIT Jodhpur '27 
+🔬 Passionate about turning complex problems into elegant solutions 
+🏆 Award Winner at  IIT Ropar Tech Fest 
+🌱 Currently diving deep into ML algorithms and MLOps procedures 
 
 ---
 
