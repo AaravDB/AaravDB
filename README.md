@@ -68,6 +68,13 @@
 <tr>
 <td width="50%">
 
+### 🌙 [Book-My-Show-clone]
+**Ticket-Booking-platform**
+
+![Tailwind](https://img.shields.io/badge/Tailwind-blue?style=flat-square&logo=tailwindcss&logoColor=black
+)
+![React](https://img.shields.io/badge/React-150458?style=flat-square&logo=react&logoColor=white)
+
 
 </td>
 <td width="50%">
@@ -140,73 +147,3 @@
 </div>
 
 ---
-
-<div align="center">
-  
-  ## 📊 GitHub Analytics
-  
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Agam77055&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak"/>
-  
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Agam77055&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
-  
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agam77055&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages"/>
-  
-</div>
-
----
-
-<div align="left">
-  
-  ## 🏃‍♂️ Current Focus
-  
-  ```javascript
-  const agam = {
-    currentlyLearning: ["Advanced ML Algorithms", "System Design", "Cloud Architecture"],
-    workingOn: ["F1 Analytics Website", "DSA"],
-    interests: ["Cloud Computing", "DevOps", "Deep Learning", "Full-Stack Development"],
-    askMeAbout: ["React", "Python", "Machine Learning", "Data Science"]
-  };
-  ```
-  
-</div>
-
----
-
-<div align="center">
-  
-  ## 🤝 Let's Connect!
-  
-  [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://agamhsingh.me)
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/agam-harpreet-singh)
-  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Agam77055)
-  [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Agam770/)
-  [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agamhsingh@gmail.com)
-  
-</div>
-
----
-
-<div align="center">
-  
-  ## 💭 Random Dev Quote
-  
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-  
-</div>
-
-
----
-
-<div align="center">
-  
-  ### 🎯 Profile Views
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=Agam77055&label=Profile%20views&color=0e75b6&style=flat)
-  
-  ---
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,4&height=100&section=footer" width="100%"/>
-  
-  **💡 "Turning ideas into code, and code into impact!"**
-  
-</div> 
